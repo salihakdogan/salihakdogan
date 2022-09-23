@@ -1,6 +1,9 @@
 ## 👋 Hi, everyone!
 
 Salih Akdoğan is my name, and I'm attempting to become a junior web developer. I was born and raised in Bursa, Turkey. I'm learned build dynamic web sites using ASP.Net Core and relational databases. These days, I'm studying how to create web projects using (N-Layer) Architecture.
+
+>*(Not every project that appears on my profile has been finished. I'm developing every project for learning a new technology. I update my previous works as I discover new technologies.)*
+
 ##### 📝 I'm working on this project right now : <a href="https://github.com/salihakdogan/BlogProject">BlogProject</a>
 
 ## 🌐 Socials:
