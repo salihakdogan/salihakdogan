@@ -12,6 +12,7 @@ I am developing full-stack web projects using the technologies I categorized bel
     - Bootstrap
     - JQuery
     - React.js
+    - TailwindCSS
 
 ### Back-End
 - **Languages**
