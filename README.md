@@ -39,7 +39,7 @@ I am developing full-stack web projects using the technologies I categorized bel
     - This categorization shows the general areas in which these technologies are commonly used. Of course, some technologies can fall into multiple categories, and the application of each technology can be much broader.
 
 - **Social media and contact adresses**
-    - [Twitter](https://twitter.com/salihakdogn/)
+    - [Twitter](https://twitter.com/salihakdgan/)
     - [Email](mailto:salihakdogan1@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/salih-akdogan-07834523a/)
 
